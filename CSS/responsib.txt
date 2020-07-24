@@ -1,0 +1,10 @@
+5000 or more ->> .container{
+   width:65%;
+   margin:0 auto;
+   max-width:1200px; ->> jokhon onek boro device er jonno main content gulu majkhne ana dorkar hoy tokhon max-width:1200px use korle i thik hoye jabe
+
+1200
+1000
+980
+768
+480

@@ -1,0 +1,3 @@
+Media Quary:
+	max ->> it's work before selected value
+	min ->> it's work after selected value
